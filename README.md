@@ -122,3 +122,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 </html>
 
 
+composer require barryvdh/laravel-dompdf
+use Barryvdh\DomPDF\Facade as PDF;
+
+
+
